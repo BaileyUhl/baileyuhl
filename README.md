@@ -4,4 +4,4 @@
 
 I have a strong foundation in web development, with expertise in HTML, CSS, and JavaScript, and I enjoy using modern frameworks like React and Vue.js to create dynamic websites. Additionally, I have mastered graphic design using Adobe Creative Suite and can provide comprehensive design solutions, including branding, logo design, social media, promotional videos, and print media, to complement my web development skills.
 
-You can view my portfolio here: https://baileyuhl.github.io/baileyuhl/
+You can look at my repositories or view my portfolio website here: https://baileyuhl.github.io/baileyuhl/
